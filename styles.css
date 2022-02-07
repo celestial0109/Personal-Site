@@ -1,0 +1,40 @@
+
+body  {
+      background-color: aliceblue; 
+      margin: 0; 
+      text-align: center;
+ }
+
+ div  {
+      background-color: #FEECE9;
+   }
+   
+   h1  {
+      margin-top: 0px; 
+      margin-left: 0px; 
+      margin-right: 0px;
+   }
+
+   .top-container  {
+      background-color: #FE7E6D;  
+}
+
+.middle-container {
+      height: 200px; 
+      width: 200px;
+      background-color: #CCD1E4;
+}
+
+.bottom-container  {
+    height: 200px;
+    width: 200px;
+    background-color: #2F3A8F;
+}
+
+.bottom-cloud {
+position: absolute;
+}
+
+.top-cloud {
+      position: absolute;
+}
